@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Tele
+comment1.params=calidadDeImagen\ tama\u00F1o\ pulgadasDeTele\ Garant\u00EDa
+comment1.target=Tele(java.lang.String,\ int,\ int,\ int)
+numComments=2
